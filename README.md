@@ -3,7 +3,15 @@
 <h1 align="center">Hola 👋, Soy Catalina Díaz</h1>
 <h3 align="center">Ingeniero en Biotecnología con especialidad en alimentos.</h3>
 
+- 🔭Egresada de la Universidad Autónoma de Nuevo León.
 
+- Con 6 años de experiencia en la industria alimentaria en los departamentos de R&D y Calidad.
+
+-HACCP,BPM, 5S, Distintivo H, Mejora continua.
+
+-
+
+- 🌱Desarrolladora de fórmulas alimenticias.
 
 - ⭐Busco oportunidades para aprender y aportar. [www.linkedin.com/in/catalina-díaz-hernández-372b6b140](www.linkedin.com/in/catalina-díaz-hernández-372b6b140)
 
