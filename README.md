@@ -7,9 +7,7 @@
 
 - Con 6 años de experiencia en la industria alimentaria en los departamentos de R&D y Calidad.
 
--HACCP,BPM, 5S, Distintivo H, Mejora continua.
-
--
+- HACCP,BPM, 5S, Distintivo H, Mejora continua.
 
 - 🌱Desarrolladora de fórmulas alimenticias.
 
