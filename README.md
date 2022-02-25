@@ -3,6 +3,8 @@
 <h1 align="center">Hola 👋, Soy Catalina Díaz</h1>
 <h3 align="center">Ingeniero en Biotecnología con especialidad en alimentos.</h3>
 
+
+
 - ⭐Busco oportunidades para aprender y aportar. [www.linkedin.com/in/catalina-díaz-hernández-372b6b140](www.linkedin.com/in/catalina-díaz-hernández-372b6b140)
 
 - 💬 Pregúntame más **caty.diaz.11@hotmail.com**
